@@ -8,7 +8,7 @@ The goal of this project is to model teacher collaboration through Academic Coll
 - Required libraries: pandas, numpy, matplotlib, scikit-learn, pytorch etc.
 
 ## Installation
-git clone https://github.com/SVIL2024/GCN-Threshold-graph-teacherEval.git
+git clone https://github.com/SVIL2024/GNN-ACGs.git
 
 ## Project Structure
 .
